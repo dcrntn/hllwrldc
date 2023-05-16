@@ -1,0 +1,5 @@
+This is a slightly more complicated Hello World program
+It works with thi ASCII characters from A to z and space
+Takes the text[dot]txt file as input creates text[dot]bin then outputs the text to the console
+While doing it kinda in a complicated way
+AFTER THE LAST TEXT A SPACE AND NEW LINE IS NEEDED 
